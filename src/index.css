@@ -1,0 +1,26 @@
+body {
+  background-color: blanchedalmond;
+}
+
+/* Stilizacija tablice */
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: center;
+}
+
+/* Stilizacija dropdown izbornika */
+select {
+  width: 100%;
+  padding: 6px;
+}
+
+/* Stilizacija trenutnog dana */
+p {
+  font-weight: bold;
+}
